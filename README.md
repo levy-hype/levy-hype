@@ -3,11 +3,11 @@
 
 # Olá, eu sou o Levylson 👋
 
-### AI Software Engineer na BNW
+### AI Software Engineer e estudante de Ciência da Computação
 
-**Python · C#/.NET · Go · TypeScript · Inteligência Artificial**
+**Python · C#/.NET · React · TypeScript · Go · Inteligência Artificial**
 
-Desenvolvo projetos e soluções de software, explorando IA, APIs e aplicações web e desktop.
+Desenvolvedor de soluções com C#/.NET, Python, React, TypeScript e Go, com interesse em Inteligência Artificial, automação e engenharia de software.
 
 <a href="https://www.linkedin.com/in/levylson-lourenco-rodrigues-190a64251/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conecte-se comigo no LinkedIn"></a>
 <a href="https://github.com/levy-hype"><img src="https://img.shields.io/github/followers/levy-hype?style=for-the-badge&logo=github&label=Seguidores&color=181717" alt="Seguidores no GitHub"></a>
@@ -18,7 +18,7 @@ Desenvolvo projetos e soluções de software, explorando IA, APIs e aplicações
 
 ## 👨‍💻 Sobre mim
 
-Atuo como **AI Software Engineer na BNW** e gosto de transformar ideias em aplicações funcionais. No meu GitHub, compartilho projetos de portfólio e estudos práticos em desenvolvimento de software, APIs, automação e inteligência artificial.
+AI Software Engineer e estudante de Ciência da Computação. Desenvolvedor de soluções com C#/.NET, Python, React, TypeScript e Go, com interesse em Inteligência Artificial, automação e engenharia de software.
 
 🎓 **Técnico em Desenvolvimento de Sistemas** — SENAI CTTI MG  
 🎯 Aberto a oportunidades e novos desafios em desenvolvimento de software.
